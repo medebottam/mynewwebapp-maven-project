@@ -1,0 +1,8 @@
+{
+    "files": [
+        {
+            "pattern": "target/*.war",
+            "target": "demorepo-maven-war/"   
+        }
+    ]
+}
